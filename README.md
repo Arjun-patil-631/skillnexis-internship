@@ -42,7 +42,47 @@ SkillNexis-Internship/
 ---
 
 ## 📘 Week 2
-*Will be updated.*
+
+### Topics Covered
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- Model Evaluation
+- Accuracy Score
+- R² Score
+- Confusion Matrix
+
+### Assignments
+
+#### 🏠 House Price Prediction
+- Built a Linear Regression model using a housing dataset
+- Split the dataset into training and testing sets
+- Predicted house prices
+- Evaluated the model using R² Score
+- Plotted predicted vs actual house prices
+
+#### 🚢 Titanic Survival Prediction
+- Built a Logistic Regression model
+- Preprocessed Titanic passenger data
+- Predicted passenger survival
+- Evaluated the model using Accuracy Score
+- Generated a Confusion Matrix
+
+### Practice & Model Comparison
+- Trained a Decision Tree Classifier
+- Trained a K-Nearest Neighbors (KNN) Classifier
+- Compared model accuracy
+- Tuned Decision Tree `max_depth`
+- Observed the effect of tree depth on accuracy
+
+### Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
 
 ---
 
